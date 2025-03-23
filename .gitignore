@@ -1,0 +1,9 @@
+/javascript/auto-no-code/cmd.sh
+/javascript/auto-no-code/node_modules
+/javascript/auto-code-level/cmd.sh
+/javascript/auto-code-level/node_modules
+
+/typescript/auto-no-code/cmd.sh
+/typescript/auto-no-code/node_modules
+/typescript/auto-code-level/cmd.sh
+/typescript/auto-code-level/node_modules
